@@ -1,1 +1,5 @@
 ola mundo
+
+seja bem vindo ao meu canal de programacao
+
+aqui iremos comecar do basico
